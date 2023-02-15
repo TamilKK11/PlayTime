@@ -1,0 +1,72 @@
+[
+  {
+    "imagename": "Level1.jpg",
+    "id": 1,
+    "question": "How many heart symbols are present?",
+    "answer": "4",
+    "answerText": "four"
+  },
+  {
+    "imagename": "Level2.jpg",
+    "id": 2,
+    "question": "How many blue colored shapes are present?",
+    "answer": "3",
+    "answerText": "three"
+  },
+  {
+    "imagename": "Level3.jpg",
+    "id": 3,
+    "question": "How many two-hurdred rupee notes are present?",
+    "answer": "2",
+    "answerText": "two"
+  },
+  {
+    "imagename": "Level4.jpg",
+    "id": 4,
+    "question": "How many clouds are present?",
+    "answer": "3",
+    "answerText": "three"
+  },
+  {
+    "imagename": "Level5.jpg",
+    "id": 5,
+    "question": "How many baby chickens are present?",
+    "answer": "14",
+    "answerText": "fourteen"
+  },
+  {
+    "imagename": "Level6.jpg",
+    "id": 6,
+    "question": "How many blue colored balls are present?",
+    "answer": "6",
+    "answerText": "six"
+  },
+  {
+    "imagename": "Level7.jpg",
+    "id": 7,
+    "question": "How many vegetables are present?",
+    "answer": "9",
+    "answerText": "nine"
+  },
+  {
+    "imagename": "Level8.jpg",
+    "id": 8,
+    "question": "How many brown dogs/puppies are present?",
+    "answer": "2",
+    "answerText": "two"
+  },
+  {
+    "imagename": "Level9.jpg",
+    "id": 9,
+    "question": "Total value of the coins?",
+    "answer": "46",
+    "answerText": "fortysix"
+  },
+  {
+    "imagename": "Level10.jpg",
+    "id": 10,
+    "question": "How many yellow colored shapes are present?",
+    "answer": "14",
+    "answerText": "fourteen"
+  }
+]
